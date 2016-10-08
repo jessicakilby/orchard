@@ -1,0 +1,20 @@
+{
+  "name": "orchard",
+  "description": "growing some trees",
+  "main": "index.js",
+  "authors": [
+    "\u001b[A\u001b[C trees\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Djessica kilby <jessicakilby@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
